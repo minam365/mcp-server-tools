@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="src/TimeServerTools/TimeServerTools.csproj" />
+  <Project Path="src/WeatherServerTools/WeatherServerTools.csproj" />
 </Solution>
