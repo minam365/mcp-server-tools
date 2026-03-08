@@ -1,0 +1,15 @@
+{
+	"servers": {
+		"mo-mcp-server": {
+			"type": "stdio",
+			"command": "dotnet",
+            
+			"args": [
+				"run",
+				"--project",
+				"'/Volumes/ssd-512gb/github/mcp-server-tools/src/TimeServerTools/TimeServerTools.csproj'"
+			]
+		}
+	},
+	"inputs": []
+}
